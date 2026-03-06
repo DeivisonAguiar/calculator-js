@@ -11,3 +11,6 @@ Functions:
 - Percentage
 - Change sign (+/-)
 - Clear display
+## Preview
+
+![Calculator Preview](preview.png)
