@@ -14,3 +14,7 @@ Functions:
 ## Preview
 
 ![Calculator Preview](preview.png)
+
+## Live Demo
+
+[Open Calculator](https://deivisonaguiar.github.io/calculator-js/)
